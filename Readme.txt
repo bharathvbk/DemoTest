@@ -9,4 +9,8 @@ New Update
 
 Feature Brnach
 
+<<<<<<< HEAD
 Feature update on 24th jan 
+=======
+Master updated on 26th
+>>>>>>> main
